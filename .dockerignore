@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.git/
+.ipynb_checkpoints/
+models/*.pkl
+images/*.png
+outputs/*.json
+outputs/*.txt
