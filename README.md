@@ -1,19 +1,34 @@
-﻿# AI-Powered Predictive Maintenance System for IoT Devices
+# AI-Powered Predictive Maintenance System for IoT Devices
 
-**A Machine Learning and Industrial IoT Simulation Project**
+An experimental machine-learning dashboard that analyzes synthetic industrial IoT sensor data to demonstrate predictive maintenance and equipment-failure risk assessment.
 
-A Python-based predictive maintenance prototype that uses synthetic equipment sensor data, a Random Forest classifier, and an interactive Streamlit dashboard to estimate machine failure risk and display maintenance alerts.
+## Live Demo
 
-## 👩‍💻 Project Information
+[Launch the Streamlit App](https://ai-predictive-maintenance-iot-bcmdjxg9bpmwfzup96dv5s.streamlit.app/)
 
-- **Project Title:** AI-Powered Predictive Maintenance System for IoT Devices
-- **Project Developer & Customizer:** Vyshnavi Porandla
-- **Project Type:** Machine Learning, Industrial IoT Simulation, Predictive Analytics
-- **Programming Language:** Python
-- **Dashboard:** Streamlit
-- **Machine Learning Model:** Random Forest Classifier
-- **Data Source:** Synthetic industrial sensor data
-- **Development Environment:** Windows, Python, Git, GitHub
+## GitHub Repository
+
+[View Source Code](https://github.com/vyshnaviporandla/AI-Predictive-Maintenance-IoT)
+
+## Technologies Used
+
+- Python
+- Streamlit
+- Pandas and NumPy
+- Scikit-learn
+- Matplotlib and Seaborn
+
+## Key Features
+
+- Interactive predictive-maintenance dashboard
+- Sensor-data analysis and feature engineering
+- Machine-learning-based failure-risk assessment
+- Data visualization and model evaluation
+- Synthetic industrial IoT dataset
+
+## Developer
+
+Vyshnavi Porandla
 
 ---
 
